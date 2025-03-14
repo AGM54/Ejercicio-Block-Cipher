@@ -4,7 +4,7 @@ Este laborartorio implementa el cifrado y descifrado de datos utilizando los alg
 
 ---
 
-## ** Características**
+##  Características
 - Implementación de **DES en ECB**, **3DES en CBC**, **AES en ECB y CBC**.
 - Generación **segura** de claves aleatorias y vectores de inicialización (IV).
 - Uso de **relleno (padding)** automático y manual donde es requerido.
